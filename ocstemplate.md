@@ -109,6 +109,10 @@ Defense:
 Magic:
 LV:
 ```
+## Check
+```
+(What text appears when the player chooses *Check? Namely a brief description, or a witty remark.)
+```
 ## Weapon
 ```
 (Does your character wield a weapon? Is it melee or ranged? Put it here.)
