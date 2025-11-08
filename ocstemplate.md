@@ -134,8 +134,17 @@ LV:
 ```
 (Insert a quote or an image from your OC)
 ```
+## Early Backstory
 ```
 (Write your character's backstory here! It doesn’t have to be long or complicated—simply write what you'd like.)
+```
+## Recent Past
+```
+(Describe your character's life and events from the past few years—roughly within the last five. What shaped who they are today?)
+```
+## Current Situation
+```
+(Explain your character's current circumstances. What are they doing or dealing with in the present—within the last few months?)
 ```
 # MISCELLANEOUS INFO
 ```
