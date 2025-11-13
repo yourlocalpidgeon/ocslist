@@ -161,9 +161,10 @@ TBD!
 ```
 ## Voice Style
 ```
-Think Neil Cici but faster.
+--WIP-- Think Neil Cici but faster.
 ```
 ## Theme
 ```
 Lifetime Achievement Award - Lemon Demon's "Spirit Phone"
+- "Look - it's you, good as new / New hands, new throat, new living tissue / You earned this new purpose / Lifetime achievement award..."
 ```
