@@ -166,5 +166,8 @@ TBD!
 ## Theme
 `
 Lifetime Achievement Award - Lemon Demon's "Spirit Phone"
-- "Look - it's you, good as new / New hands, new throat, new living tissue / You earned this new purpose / Lifetime achievement award..."
+`
+
+`
+"When we get your heart to start tomorrow / When you see the chart tomorrow you'll be number one"
 `
