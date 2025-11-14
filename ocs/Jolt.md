@@ -169,5 +169,5 @@ Lifetime Achievement Award - Lemon Demon's "Spirit Phone"
 `
 
 `
-"When we get your heart to start tomorrow / When you see the chart tomorrow you'll be number one"
+"When we get your heart to start tomorrow / When you see the chart tomorrow you'll be number one!"
 `
